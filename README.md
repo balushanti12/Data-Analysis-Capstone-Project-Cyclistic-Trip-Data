@@ -144,18 +144,18 @@ Next the number of trips by the month, days of the week and hours of the day are
 
   ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture21.jpg)
   
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture22.jpg)
-  
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture23.png)
-  
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture24.png)
+ **Months:** When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter. 
 
-**Months:** When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter.  
-
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture22.jpg)
+ 
 **Days of Week:** When the days of the week are compared, it is discovered that casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week.
 
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture23.png)
+ 
 **Hour of the Day:** The members shows 2 peaks throughout the day in terms of number of trips. One is early in the morning at around 6 am to 8 am and other is in the evening at around 4 pm to 6 pm while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
 
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture24.png)
+ 
 We can infer from the previous observations that member may be using bikes for commuting to and from the work in the week days while casual riders are using bikes throughout the day, more frequently over the weekends for leisure purposes. Both are most active in summer and spring which indirectly infers that weather will affect both the riders.
 
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.

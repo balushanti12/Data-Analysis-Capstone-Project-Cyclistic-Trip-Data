@@ -3,7 +3,7 @@
 
 **Data Source**: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-**Introduction:**  In this case study, I will apply the skills of a junior data analyst to a real-world scenario. I will work for a fictional company called Cyclistic, a bike-share program offering different bike types and pricing plans. My goal is to answer the key business question: How do annual members and casual riders use Cyclistic bikes differently? To do this, I will follow the six steps of the data analysis process: [Ask](#Ask), [Prepare](#Prepare), [Process](#Process), [Analyze & Share](#Analyze), and [Act](#Act).
+**Introduction:**  In this case study, I will apply the skills of a junior data analyst to a real-world scenario. I will work for a fictional company called Cyclistic, a bike-share program offering different bike types and pricing plans. My goal is to answer the key business question: How do annual members and casual riders use Cyclistic bikes differently? To do this, I will follow the six steps of the data analysis process: [Ask](#Ask), [Prepare](#Prepare), [Process](#Process), [Analyze and Share](#Analyze-and-Share), and [Act](#Act).
 SQL Queries Used in perform the above steps:
 1.	[Data Merging](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/1.Data%20Merging%20Query.sql)
 2.	[Data Exploration](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/2.Data%20Exploration%20Query.sql)

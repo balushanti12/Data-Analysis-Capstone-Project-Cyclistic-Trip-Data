@@ -131,47 +131,50 @@ The data is cleansed and kept in the CycleTripData2023_Cleaned table and is read
 
 First of all, member and casual riders are compared by the type of bikes they are using.
 
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture18.png) ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture19.png)
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Member%20type.png)
 
 The members make 65.6% of the total while remaining 34.4% constitutes casual riders. Each bike type chart shows percentage from the total. 
-The below Pie chart shows bike type preference used by Casual riders:
+The below bar chart shows bike type preference used by Casual riders:
 
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture20.jpg)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Rideable%20Type.png)
 
 This indicates that casual riders favor classic bikes and electric bikes as their top choices. They are less interested in docked bikes, which is their last option.
 
 Next the number of trips by the month, days of the week and hours of the day are examined for Members and Casual riders
 
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture21.jpg)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/No.%20of%20Trips%20by%20Member%20Casual.png)
   
  **Months:** When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter. 
 
- ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture22.jpg)
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/No.%20of%20Trips%20Per%20Month.png)
  
 **Days of Week:** When the days of the week are compared, it is discovered that casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week.
 
- ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture23.png)
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Per%20week%20No.%20of%20Trips.png)
  
 **Hour of the Day:** The members shows 2 peaks throughout the day in terms of number of trips. One is early in the morning at around 6 am to 8 am and other is in the evening at around 4 pm to 6 pm while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
 
- ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture24.png)
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/No.of%20Trips%20Per%20Hour.png)
  
 We can infer from the previous observations that member may be using bikes for commuting to and from the work in the week days while casual riders are using bikes throughout the day, more frequently over the weekends for leisure purposes. Both are most active in summer and spring which indirectly infers that weather will affect both the riders.
 
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.
 Average Ride Length appears to be more for Casual riders than Members: So they prefer the long trips and the same can be considered for market strategy.
 
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture25.jpg)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20by%20Member%20Casual.png)
 
-Here is the Per Month, Per Day of the Week, Par Hour charts:
+Here is the Per Month, Per Day of the Week, Per Hour charts:
 
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture26.jpg)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Month.png)
   
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture27.png)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Day%20of%20Week.png)
   
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Picture28.jpg)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Hour.png)
  
 Take note that casual riders tend to cycle longer than members do on average. The length of the average journey for members doesn't change throughout the year, week, or day. However, there are variations in how long casual riders cycle. In the spring and summer, on weekends, and from 10 am to 2 pm during the day, they travel greater distances. Between 5 and 8 am in the morning, they have brief trips.
+
+![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Dashboard%204.png)
+
 
 These findings lead to the conclusion that casual commuters travel longer (approximately 2x more) but less frequently than members. They make longer journeys on weekends and during the day outside of commuting hours and in spring and summer seasons, so they might be doing so for recreation purposes.
 

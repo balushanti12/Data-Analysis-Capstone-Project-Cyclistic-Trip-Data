@@ -169,7 +169,7 @@ Here is the Per Month, Per Day of the Week, Per Hour charts:
   
   ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Day%20of%20Week.png)
   
-  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Hour.png)
+  ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Hour%20(1).png)
  
 Take note that casual riders tend to cycle longer than members do on average. The length of the average journey for members doesn't change throughout the year, week, or day. However, there are variations in how long casual riders cycle. In the spring and summer, on weekends, and from 10 am to 2 pm during the day, they travel greater distances. Between 5 and 8 am in the morning, they have brief trips.
 

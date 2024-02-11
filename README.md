@@ -173,7 +173,7 @@ Here is the Per Month, Per Day of the Week, Per Hour charts:
  
 Take note that casual riders tend to cycle longer than members do on average. The length of the average journey for members doesn't change throughout the year, week, or day. However, there are variations in how long casual riders cycle. In the spring and summer, on weekends, and from 10 am to 2 pm during the day, they travel greater distances. Between 5 and 8 am in the morning, they have brief trips.
 
-![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Dashboard%204.png)
+![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Dashboard%205.png)
 
 
 These findings lead to the conclusion that casual commuters travel longer (approximately 2x more) but less frequently than members. They make longer journeys on weekends and during the day outside of commuting hours and in spring and summer seasons, so they might be doing so for recreation purposes.

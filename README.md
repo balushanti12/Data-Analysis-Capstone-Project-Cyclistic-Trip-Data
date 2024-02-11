@@ -166,7 +166,9 @@ Average Ride Length appears to be more for Casual riders than Members: So they p
 Here is the Per Month, Per Day of the Week, Per Hour charts:
 
   ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Month%20(1).png)
-  
+  .
+Average Ride Length Per Day of Week is Saturday.
+
   ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Day%20of%20Week.png)
   
   ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/Avg%20Ride%20Length%20Per%20Hour%20(1).png)

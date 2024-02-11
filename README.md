@@ -146,7 +146,7 @@ Next the number of trips by the month, days of the week and hours of the day are
   
  **Months:** When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter. 
 
- ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/No.%20of%20Trips%20Per%20Month.png)
+ ![](https://github.com/balushanti12/Data-Analysis-Capstone-Project-Cyclistic-Trip-Data/blob/main/No.%20of%20Trips%20Per%20Month%20(1).png)
  
 **Days of Week:** When the days of the week are compared, it is discovered that casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week.
 

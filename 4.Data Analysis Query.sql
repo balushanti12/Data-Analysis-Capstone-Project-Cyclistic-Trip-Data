@@ -86,4 +86,13 @@ from `CycleTripData.CycleTripData2023_Cleaned`
 group by 1,2,3 
 order by 1,2,3
 
+-- Minimum, Maximum, Month, Dayofweek, rideable_type, member_casual, Hour of trips for each day.
 
+select Month, Dayofweek, EXTRACT(hour from started_at) AS hour, rideable_type, member_casual,
+min(ride_length) AS  Min_Ride_Length, 
+max(ride_length) AS Max_Ride_Length, 
+avg(ride_length) AS Avg_Ride_Length,  
+count(ride_id) As No_of_trips
+from `CycleTripData.CycleTripData2023_Cleaned` 
+group by 1,2,3,4,5
+order by 1,2,3,4,5
